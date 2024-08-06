@@ -203,7 +203,37 @@ Teste de usabilidade é uma técnica de pesquisa utilizada para avaliar um produ
 - www.invisionapp.com
 - www.powermockup.com
 
-
+### Introdução ao UI Design
+#### Entendendo um Wireframe
+- É muito importante entender como encaixar cada elemento dentro do contexto que deseja abordar
+    - Tipo de imagens, com ou sem ações ao clicar, se será estática ou não.
+    - Como os icones irão representar os conteúdos.
+#### Entendendo o UI
+- Paleta de cores: Buscar um equilibrio, dentro de uma matriz, tom, sombra e temperatura.
+- Harmonia: Através da teoria das cores.
+- Criar paletas de cores com tom, tonalidade e temperatura.
+    - Matiz: Vai da cor ao branco, qualquer cor púra adcionando o branco.
+    - Tom: Vai da cor ao cinza, qualquer cor pura adcionando o cinza.
+    - Tonalidade: Vai da cor ao preto, qualquer cor pura adcionando o preto.
+    - Temperada: É como percebemos o tom que estamos vendo.
+        - Cores quentes: são cores que geramente vêm de aumentar os tons de vermelho ou amarelo.
+        - Cores frias: São cores que geralmente vêm de aumentar os tons de azul e verde.
+- Modelo de cores
+    - CMYK (Ciano, Magenta, Amarelo, Preto): Mistura que subtrai a luz par derivar cores diferentes.
+    - RGB (Vermelho, Verde, Azul): Usa a mistura aditiva de luz para derivar cores diferentes.
+    - HSB (V): Matriz, Saturação e Brilho, usam esses atributos para gerar cores diferentes.
+- Categorias (S-saturação, B-Brilho)
+    - Tons de Joias: S:83-73 e B:76-56, cores que refletem o luxo.
+    - Tons de Pastel: S:14-21 e B:89-96, cores mais calmas.
+    - Tons da Terra: S:36-41 e B:36-77, são cores encontradas na natureza, para imitar cores naturais.
+    - Tons Neutros: S:1-10 e B:70-99, são cores que combinam com outras categorias para criar um equilíbrio.
+    - Tons Florecentes, Neon: S:63-100 e B:82-100, é criado aumentando o brilho dos tons anteriores.
+    - Tons Shades: Preto e Branco, S:0-0 e B:0-100
+- As cores podem ser classificadas em 3 níveis
+    - AAA: Completamente vísivel, constrante entre fonte e cor de fundo
+    - AA: Um classificação intermediária, afeta a leitura a longo prazo
+    - A: É a pior, que causa mais cansaço ao leitor.
+*Para montar a escala de cores, basta pegar a cor principal e ir baixando a opacidade em 10 em 10%*
 
 
 ## Avançando com Figma e Criação de Protótipos
