@@ -235,6 +235,14 @@ Teste de usabilidade é uma técnica de pesquisa utilizada para avaliar um produ
     - A: É a pior, que causa mais cansaço ao leitor.
 *Para montar a escala de cores, basta pegar a cor principal e ir baixando a opacidade em 10 em 10%*
 
+### Entendendo Tipografia
+- Com serifas(ou serifadas): Caligrafia classica, possuindo mais curvas, Ex. Kennerly, Lynton, Centaur, perpétua, Times New Roman e Baskerville.
+- Sem serifas: Inspiradas no tipos romanos, de boa legibilidade para leitura de textos longos, ex: Optima, Tahoma, Gill Sans, Univers, Bell Gothic e Helvetica.
+- Script (ou cursivas): É uma fonte baseada na escrita cursiva, ex. Francesca, Mistral e Shelley.
+- Decorativas: Utilizadas em displays, possui amplitude, voltadas para textos curtos. ex: Techno, Comico, Pixel e Sancreek. 
+- Espaçamento entre linhas: Usar escala px 1.5
+- Para titulos, usar a escaola 1 por 1 ou px + 10px
+- Dropcap deve usar duas linhas do texto
 
 ## Avançando com Figma e Criação de Protótipos
 
