@@ -9,6 +9,6 @@
 
 
 - ### *Protótipos realizados em outros projetos*
-  - [Abastração de uma tela inicial de um app de banco](https://github.com/igormanoels/.Estudos-em-UX-Design/tree/main/Projetos%20feitos%20em%20outros%20estudos/Abastra%C3%A7%C3%A3o%20de%20uma%20tela%20inicial%20de%20um%20app%20de%20banco)
+  - [Abastração de uma tela inicial de um app de banco](https://github.com/igormanoels/.Estudos-em-UX-Design/blob/main/Projetos%20feitos%20em%20outros%20estudos/01%20-%20Abastra%C3%A7%C3%A3o%20de%20uma%20tela%20inicial%20de%20um%20app%20de%20banco/Abstra%C3%A7%C3%A3o%20de%20Tela%20Principal.jpg)
   - [Calculadora](https://github.com/igormanoels/.Estudos-em-UX-Design/tree/main/Projetos%20feitos%20em%20outros%20estudos/02%20-%20Calculadora)
   - [Programa para backup do uoutube](https://github.com/igormanoels/.Estudos-em-UX-Design/tree/main/Projetos%20feitos%20em%20outros%20estudos/03%20-%20Programa%20para%20backup%20do%20youtube)
