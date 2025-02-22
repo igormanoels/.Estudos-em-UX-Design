@@ -243,7 +243,3 @@ Teste de usabilidade é uma técnica de pesquisa utilizada para avaliar um produ
 - Espaçamento entre linhas: Usar escala px 1.5
 - Para titulos, usar a escaola 1 por 1 ou px + 10px
 - Dropcap deve usar duas linhas do texto
-
-## Avançando com Figma e Criação de Protótipos
-
-## Se Tornando um(a) UX/UI Designer Completo(a)
